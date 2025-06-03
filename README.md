@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer | Front End Developer
 ---------------------------------------
 
-✨ Passionate about building sleek, high-performance web applications with React, JavaScript, and modern UI frameworks 📚 Actively deepening my skills in frontend architecture, API integration, and cloud deployment workflows 🎯 Seeking front-end or full-stack opportunities where I can craft responsive user experiences and scalable systems 🎲 Fun fact: I turned a personal need into a published fitness app—now used by others to track workouts and progress
+✨ Passionate about building sleek, high-performance web applications with React, JavaScript, and modern UI frameworks 
+📚 Actively deepening my skills in frontend architecture, API integration, and cloud deployment workflows 
+🎯 Seeking front-end or full-stack opportunities where I can craft responsive user experiences and scalable systems
+🎲 Fun fact: I turned a personal need into a published fitness app—now used by others to track workouts and progress
 
 * 🌍  I'm based in California
 * 🖥️  See my portfolio at [samuelmathew.work](http://samuelmathew.work)
