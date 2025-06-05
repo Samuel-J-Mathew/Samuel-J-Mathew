@@ -11,7 +11,7 @@ Software Engineer | Front End Developer
 
 
 * 🌍  I'm based in California
-* 🖥️  See my portfolio at [samuelmathew.work](http://samuelmathew.work)
+* 🖥️  See my portfolio at [samuelmathew.netlify.app](http://samuelmathew.netlify.app)
 * ✉️  You can contact me at [sam@samuelmathew.work](mailto:sam@samuelmathew.work)
 
 ### Skills
